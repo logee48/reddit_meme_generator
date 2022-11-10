@@ -2,7 +2,7 @@
 {
   position: absolute;
   left: 15%;
-  top: 10%;
+  top: 12%;
   border-style: dotted;
   height: 500px;
   width: 300px;
@@ -11,7 +11,15 @@
 #captionplace
 {
   position: absolute;
-  top: 5%;
+  top: 7%;
+  left: 15%;
+  width: 300px;
+}
+
+#subredditplace
+{
+  position: absolute;
+  top: 4%;
   left: 15%;
   width: 300px;
 }
